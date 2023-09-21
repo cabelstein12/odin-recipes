@@ -1,0 +1,97 @@
+body {
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blanchedalmond;
+
+}
+
+.title {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(237, 86, 86);
+    font-family: Verdana;
+
+}
+
+.trending {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: beige;
+
+}
+
+h3 {
+    margin: 20px;
+}
+
+div > a {
+    padding: 0px;
+    margin: 50px;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+    font-size: 24px;
+    text-align:center;
+    width: auto;
+}
+
+.quickNav {
+    background-color: rgb(252, 240, 222);
+    text-align: center;
+    
+}
+
+strong {
+    padding-left: 0px;
+}
+
+.trending-desc {
+    margin-left: 21px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width:250px;
+    height: 250px;
+    padding: 15px;
+}
+
+footer {
+     text-align: center;
+}
+
+footer > a {
+    padding: 6px;
+   
+}
+
+.recipe-name {
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+.hook {
+    font-weight: 600;
+    font-size: 24px;
+
+}
+
+.oatmeal{
+    padding-right: 82px;
+}
+
+.nuggets {
+    padding-right: 85px;
+}
