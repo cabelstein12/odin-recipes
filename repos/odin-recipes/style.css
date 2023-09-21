@@ -1,17 +1,21 @@
 body {
-    background-color: azure;
-    margin: 0;
+    background-color: rgb(246, 252, 252);
+    margin: auto;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: blanchedalmond;
-
+ 
 }
 
 .title {
     text-align: center;
     text-decoration: underline;
     color: rgb(237, 86, 86);
-    font-family: Verdana;
+}
+
+div {
+    border: 2px solid rgba(255, 0, 0, 0.355);
+    border-radius: 10px;
+    margin: 2px;
 
 }
 
@@ -19,7 +23,11 @@ body {
     text-align: center;
     margin-bottom: 20px;
     background-color: beige;
-
+    margin: auto;
+    width: 1150px;
+    height: 450px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 h3 {
@@ -42,6 +50,10 @@ li {
 .quickNav {
     background-color: rgb(252, 240, 222);
     text-align: center;
+    width: 1150px;
+    margin:auto;
+    margin-bottom: 20px;
+
     
 }
 
@@ -62,9 +74,11 @@ img {
     width:250px;
     height: 250px;
     padding: 15px;
+    border-radius: 136px;
 }
 
 footer {
+    padding-top: 22px;
      text-align: center;
 }
 
